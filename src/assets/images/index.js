@@ -1,0 +1,53 @@
+export default {
+  run: require('./run.png'),
+  runIcon: require('./run-icon.png'),
+  placeholder: require('./placeholder.jpeg'),
+  bnb: require('./bnb.png'),
+  bep20: require('./bep20.png'),
+  bsc: require('./bsc.png'),
+  steps: require('./step.png'),
+  speed: require('./speed.png'),
+  mapPlaceholder: require('./map.png'),
+  logo: require('./logo.png'),
+  tokens: {
+    busd: require('./busdt.png'),
+    bnb: require('./bnb.png'),
+    swp: require('./tokens/swp.png'),
+    swe: require('./tokens/swe.png'),
+    matic: require('./tokens/matic.png'),
+    eth: require('./tokens/eth.png'),
+  },
+
+  appleLink: require('./apple-link.png'),
+  googleLink: require('./google-link.png'),
+  iconAcc: require('./icon-acc.png'),
+  shadowSneaker: require('./shadow-sneaker.png'),
+
+  repair: require('./repair.png'),
+  login: {
+    stepwatch: require('./stepwatch.png'),
+    line: require('./line.png'),
+    character: require('./character.png'),
+  },
+  activeScreen: {
+    bg: require('./activeScreen/bg.png'),
+    icon: require('./activeScreen/icon.png'),
+    modal: require('./activeScreen/modalBg.png'),
+  },
+  btnBg: require('./btnBg.png'),
+  polygon: require('./polygon.png'),
+  home: {
+    box: require('./home/box.png'),
+    boxCover: require('./home/boxCover.png'),
+  },
+  nodata: require('./nodata.png'),
+  tabs: {
+    home: require('./tab-icons/home.png'),
+    ranking: require('./tab-icons/ranking.png'),
+    NFT: require('./tab-icons/sneaker.png'),
+    store: require('./tab-icons/store.png'),
+  },
+  squareLinearBg: require('./squareLinearBg.png'),
+  currentLocation: require('./currentLocation.png'),
+  unboxAnimation: require('./unbox.gif'),
+};
